@@ -2,7 +2,7 @@
 
 An experimental 27M-parameter implementation of the **Baby Dragon Hatchling (BDH)** architecture, exploring inference-time learning for medical patient information storage and retrieval. The system learns new patient facts at inference time — no retraining required — and retrieves them using a dual-memory design: an O(1) delta-rule matrix memory and an external RAG cache with cosine similarity matching.
 
-Link for weights of the model, you can add these to the folder Checkpoints
+Link for weights of the model, you can add these to the folder checkpoints
 - https://huggingface.co/xnayax/BDH_Medical_Assistant/resolve/main/best_p1.pt
 - https://huggingface.co/xnayax/BDH_Medical_Assistant/resolve/main/best_p2.pt
 
