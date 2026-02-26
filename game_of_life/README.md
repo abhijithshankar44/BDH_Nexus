@@ -8,12 +8,6 @@
 
 **Path B: Interpretability Showcase** | Kriti High Prep Contest
 
-[![Demo Video](https://img.shields.io/badge/Demo_Video-YouTube-red?style=for-the-badge&logo=youtube)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Hugging_Face-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/YOUR_USERNAME/bdh-game-of-life)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-
-**Team:** `[Team Member 1]` · `[Team Member 2]` · `[Team Member 3]`
-
 </div>
 
 ---
@@ -263,6 +257,13 @@ Key insights:
 ## 9. Interactive Visualizer (`visualize.py`)
 
 We provide `visualize.py`, an interactive Pygame-based dashboard serving as our **Activation Atlas**.
+<div align="center">
+  <img src="assets/visualize_1.png" alt="Game of life interactive 1" width="48%">
+  <img src="assets/visualize_2.png" alt="Game of life interactive 2" width="48%">
+  <br><br>
+  <em>Figure 7: Input-output (12x12) and next step output (12x12) along with head (12x12) and neurons (8x8) grid by layers (3).</em>
+</div>
+
 
 ```bash
 pip install -r requirements.txt
@@ -366,7 +367,7 @@ python visualize.py
 4. Anthropic. "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet." 2024.
 5. nostalgebraist. "Logit Lens." 2020.
 6. Arthur Conmy et al. "Towards Automated Circuit Discovery for Mechanistic Interpretability." *NeurIPS* 2023.
-
+7. Krychu. https://github.com/krychu/bdh/tree/main.
 ---
 
 ## Repository Structure

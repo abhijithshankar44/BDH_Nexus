@@ -199,7 +199,7 @@ BDH_Explainer/
 
 A video walkthrough of the application is available here:
 
-[Link to video demo -- to be added]
+[[Link to video demo](https://youtu.be/J0KXfoDiO3M)]
 
 ### Screenshots
 
